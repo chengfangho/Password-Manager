@@ -1,4 +1,0 @@
-Test Site 1 | test@gmail.com | mypassword
-Test Site 2 | test@gmail.com | mypassword2
-Test Site 3 | test@gmail.com | mypassword3
-Test Site 4 | test@gmail.com | mypassword4
